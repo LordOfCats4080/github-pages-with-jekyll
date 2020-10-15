@@ -1,5 +1,6 @@
 ---
-title: TypeScript Type Annotations
+title: "TypeScript Type Annotations"
+date: 2020-10-14
 ---
 [typescript]: https://www.typescriptlang.org/
 [typeAnnotations]: https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html#type-annotations
